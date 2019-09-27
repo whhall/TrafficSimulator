@@ -1,5 +1,5 @@
 # TrafficSimulator
-This is a sample of graphical Java using Swing
+This is a sample of graphical Java using Swing.  Each class has its own individual unit test.
 
 # How to Use this Package
 
